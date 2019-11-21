@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Page of Lee
 
 You can use the [editor on GitHub](https://github.com/Leetre/Leetre.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
